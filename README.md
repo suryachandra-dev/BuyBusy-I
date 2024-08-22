@@ -35,7 +35,7 @@ To get a local copy of the project and run it on your machine, follow these step
 
 ### Installation
 1. Clone the repository:
-- git clone https://github.com/ParmodKumar28/BuyBusy-I
+- git clone https://github.com/suryachandra-dev/BuyBusy-I
 
 2. Navigate to the project directory:
 - cd BuyBusy-I
